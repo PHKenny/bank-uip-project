@@ -349,6 +349,9 @@ public class Bank {
             break;
 
           default:
+            System.out.println("Sesión cerrada a las " + (new Date()).toString());
+            Bank.username = "";
+            Bank.password = "";
             flag = false;
             break;
         }
