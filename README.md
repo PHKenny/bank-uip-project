@@ -9,3 +9,7 @@ Por defecto la aplicación posee valores predefinidos, las cuales son los siguie
 <p>cliente2 / cliente2 / $6000</p>
 
 Así mismo, posee como credenciales de administrador la combinación usuario / contraseña =  admin / admin
+
+---
+# Diagramas de flujo y Pseudocódigo
+Está en el formato emitido por el programa PSEInt, necesario para visualizar correctamente la informacións
