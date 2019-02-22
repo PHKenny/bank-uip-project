@@ -6,6 +6,6 @@ Por defecto la aplicación posee valores predefinidos, las cuales son los siguie
 ---
 <p>Usuario / Contraseña / Balance inicial</p>
 <p>cliente / cliente / $13000</p>
-/cliente2 / cliente2 / $6000
+<p>cliente2 / cliente2 / $6000</p>
 
 Así mismo, posee como credenciales de administrador la combinación usuario / contraseña =  admin / admin
